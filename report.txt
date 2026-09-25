@@ -1,0 +1,9 @@
+Biq Scanner v2 Report for scanme.nmap.org
+Time: 2026-09-25 11:37:40.144719
+
+Open Ports: [22, 80, 9929, 31337]
+Found Dirs:
+http://scanme.nmap.org/images - CODE 200
+http://scanme.nmap.org/shared - CODE 403
+http://scanme.nmap.org/images/ - CODE 200
+http://scanme.nmap.org/index - CODE 200
