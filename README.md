@@ -1,8 +1,15 @@
-# Biq Scanner v2 - by Biq Chalet
-My first ethical hacking tool built in Termux at 18
+# Biq Scanner
+A fast, lightweight scanner tool built from scratch in Termux.
 
-Scans ports + finds hidden folders
-Found: 22,80,9929,31337 and /shared 403 on scanme.nmap.org
+## Features
+- Fast scanning
+- Lightweight & mobile-first
+- Built with Python
 
-Usage: python biq_scanner.py scanme.nmap.org
+## Author
+Biq Chalet - 18, Yola, Nigeria
 
+## How to run
+```bash
+python main.py
+```
